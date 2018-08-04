@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DivyanshBatham/DivyanshBatham.github.io/issues"
   },
-  "homepage": "https://github.com/DivyanshBatham/DivyanshBatham.github.io#readme"
+  "homepage": "https://github.com/DivyanshBatham/DivyanshBatham.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
 }
