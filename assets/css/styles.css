@@ -12,9 +12,13 @@ body {
     height: 100%;
     width: 100%;
     overflow: hidden;
+    background: #282828 url('../../NotNotCurious.png');
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: contain;
 }
 
-#wrapper {
+/* #wrapper {
     border: 2px solid whitesmoke;
     border-radius: 8px;
     padding: 25px;
@@ -52,4 +56,4 @@ a {
     color: whitesmoke;
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
-}
+} */
